@@ -12,6 +12,7 @@ const products = [
   {id:8,name:"Summer Breeze Lawn",category:"Lawn",price:3650,tag:"SEASONAL PICK",image:"https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=850&q=85"}
 ];
 
+//test repo
 let cart = [];
 let activeFilter = "All";
 let searchTerm = "";
